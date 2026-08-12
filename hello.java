@@ -36,7 +36,7 @@ public class hello {
                     result = num1 / num2;
                     System.out.println("Result = " + result);
                 } else {
-                    System.out.println("Error: Division by zero is not allowed.");
+                    System.out.println("Error: Division by zero is allowed.");
                 }
                 break;
 
